@@ -1,7 +1,3 @@
----
-title: "Code Book"
-output: html_document
----
 
 First call the dplyr package and the reshape2 package. 
 
